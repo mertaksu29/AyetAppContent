@@ -1,0 +1,363 @@
+[
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174001",
+        "arabicText": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "textTR": "Rahmân ve Rahîm olan Allah'ın adıyla.",
+        "textEN": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "reference": "Fâtiha 1:1",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı",
+        "tefsir": "Besmele, her hayırlı işin başıdır. Allah'ın adıyla başlamak, O'ndan yardım dilemek ve işi O'nun rızasına uygun yapmaya niyet etmektir. Rahmân ve Rahîm isimleri, Allah'ın sonsuz merhetini ifade eder."
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174002",
+        "arabicText": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "textTR": "(Rabbimiz!) Ancak sana kulluk ederiz ve yalnız senden medet umarız.",
+        "textEN": "It is You we worship and You we ask for help.",
+        "reference": "Fâtiha 1:5",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174003",
+        "arabicText": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+        "textTR": "Öyleyse yalnız beni anın ki ben de sizi anayım. Bana şükredin, sakın nankörlük etmeyin.",
+        "textEN": "So remember Me; I will remember you. And be grateful to Me and do not deny Me.",
+        "reference": "Bakara 2:152",
+        "mood": "grateful",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174004",
+        "arabicText": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "textTR": "Ey iman edenler! Sabır ve namazla yardım dileyin. Şüphesiz Allah sabredenlerin yanındadır.",
+        "textEN": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+        "reference": "Bakara 2:153",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174005",
+        "arabicText": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا wوسعَهَا",
+        "textTR": "Allah hiçbir kimseyi, gücünün yetmediği bir şeyle yükümlü kılmaz.",
+        "textEN": "Allah does not charge a soul except [with that within] its capacity.",
+        "reference": "Bakara 2:286",
+        "mood": "debt",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174006",
+        "arabicText": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم μُّؤْمِنِينَ",
+        "textTR": "Gevşemeyin, hüzünlenmeyin. Eğer (gerçekten) iman etmişseniz, üstün olan sizlersiniz.",
+        "textEN": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+        "reference": "Âl-i İmrân 3:139",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174007",
+        "arabicText": "وَاللَّهُ أَعْلَمُ بِأَعْدَائِكُمْ ۚ وَكَفَىٰ بِاللَّهِ وَلِيًّا وَكَفَىٰ بِاللَّهِ نَصِيرًا",
+        "textTR": "Allah düşmanlarınızı sizden daha iyi bilir. Gerçek bir dost olarak Allah yeter, bir yardımcı olarak da Allah yeter.",
+        "textEN": "And Allah is most knowing of your enemies; and sufficient is Allah as an ally, and sufficient is Allah as a helper.",
+        "reference": "Nisâ 4:45",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174008",
+        "arabicText": "رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ",
+        "textTR": "Allah onlardan razı olmuş, onlar da Allah'tan razı olmuşlardır.",
+        "textEN": "Allah is pleased with them and they are pleased with Him.",
+        "reference": "Mâide 5:119",
+        "mood": "love",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174009",
+        "arabicText": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+        "textTR": "Bilesiniz ki, Allah'ın dostlarına hiçbir korku yoktur. Onlar üzülmeyeceklerdir de.",
+        "textEN": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve.",
+        "reference": "Yûnus 10:62",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174010",
+        "arabicText": "فَاسْتَقِمْ كَمَا أُمِرْتَ",
+        "textTR": "Öyleyse emrolunduğun gibi dosdoğru ol.",
+        "textEN": "So remain on a right course as you have been commanded.",
+        "reference": "Hûd 11:112",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174011",
+        "arabicText": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "textTR": "Bilesiniz ki, kalpler ancak Allah'ı anmakla huzur bulur.",
+        "textEN": "Unquestionably, by the remembrance of Allah hearts are assured.",
+        "reference": "Ra'd 13:28",
+        "mood": "love",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174012",
+        "arabicText": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+        "textTR": "Andolsun, eğer şükrederseniz elbette size nimetimi artırırım.",
+        "textEN": "If you are grateful, I will surely increase you [in favor].",
+        "reference": "İbrâhîm 14:7",
+        "mood": "grateful",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174013",
+        "arabicText": "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
+        "textTR": "Sana ölüm gelinceye kadar Rabbine ibadet et.",
+        "textEN": "And worship your Lord until there comes to you the certainty (death).",
+        "reference": "Hicr 15:99",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174014",
+        "arabicText": "وَقُل رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ",
+        "textTR": "De ki: 'Rabbim! Gireceğim yere dürüstlükle girmemi sağla; çıkacağım yerden de dürüstlükle çıkmamı sağla.'",
+        "textEN": "And say: 'My Lord, cause me to enter a sound entrance and to exit a sound exit.'",
+        "reference": "İsrâ 17:80",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174015",
+        "arabicText": "رَّبِّ زِدْنِي عِلْمًا",
+        "textTR": "Rabbim! İlmimi arttır.",
+        "textEN": "My Lord, increase me in knowledge.",
+        "reference": "Tâhâ 20:114",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174016",
+        "arabicText": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+        "textTR": "Senden başka hiçbir ilâh yoktur. Seni eksikliklerden uzak tutarım. Ben gerçekten (nefsine) zulmedenlerden oldum.",
+        "textEN": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+        "reference": "Enbiyâ 21:87",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174017",
+        "arabicText": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+        "textTR": "Rabbimiz! Bize gözümüzü aydınlatacak eşler ve zürriyetler bağışla.",
+        "textEN": "Our Lord, grant us from among our wives and offspring comfort to our eyes.",
+        "reference": "Furkân 25:74",
+        "mood": "love",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174018",
+        "arabicText": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+        "textTR": "Hastalandığımda da O bana şifa verir.",
+        "textEN": "And when I am ill, it is He who cures me.",
+        "reference": "Şuarâ 26:80",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174019",
+        "arabicText": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا",
+        "textTR": "Bizim uğrumuzda cihat edenleri elbette kendi yollarımıza eriştireceğiz.",
+        "textEN": "And those who strive for Us - We will surely guide them to Our ways.",
+        "reference": "Ankebût 29:69",
+        "mood": "debt",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174020",
+        "arabicText": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا",
+        "textTR": "Kendileri ile huzur bulasınız diye sizin için türünüzden eşler yaratması O'nun (varlığının ve kudretinin) delillerindendir.",
+        "textEN": "And of His signs is that He created for you from yourselves mates that you may find tranquility in them.",
+        "reference": "Rûm 30:21",
+        "mood": "love",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174021",
+        "arabicText": "وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+        "textTR": "Başına gelene sabret! Şüphesiz bunlar(a riayet etmek), yapılması gereken lüzumlu işlerdendir.",
+        "textEN": "And be patient over what befalls you. Indeed, that is of the matters [requiring] determination.",
+        "reference": "Lokmân 31:17",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174022",
+        "arabicText": "وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+        "textTR": "Allah'a güvenip dayan. Vekil olarak Allah yeter.",
+        "textEN": "And rely upon Allah; and sufficient is Allah as Disposer of affairs.",
+        "reference": "Ahzâb 33:3",
+        "mood": "debt",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174023",
+        "arabicText": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
+        "textTR": "Allah kuluna yetmez mi?",
+        "textEN": "Is not Allah sufficient for His Servant?",
+        "reference": "Zümer 39:36",
+        "mood": "debt",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174024",
+        "arabicText": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+        "textTR": "Allah'ın rahmetinden ümidinizi kesmeyin.",
+        "textEN": "Do not despair of the mercy of Allah.",
+        "reference": "Zümer 39:53",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174025",
+        "arabicText": "وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ ۚ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ",
+        "textTR": "Ben işimi Allah'a havale ediyorum. Şüphesiz Allah kullarını hakkıyla görendir.",
+        "textEN": "And I entrust my affair to Allah. Indeed, Allah is Seeing of [His] servants.",
+        "reference": "Mü'min 40:44",
+        "mood": "debt",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174026",
+        "arabicText": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "textTR": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?",
+        "textEN": "So which of the favors of your Lord would you deny?",
+        "reference": "Rahmân 55:13",
+        "mood": "grateful",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174027",
+        "arabicText": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+        "textTR": "Kim Allah'a güvenip dayanırsa Allah ona yeter.",
+        "textEN": "And whoever relies upon Allah - then He is sufficient for him.",
+        "reference": "Talâk 65:3",
+        "mood": "debt",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174028",
+        "arabicText": "إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+        "textTR": "Şüphesiz O, göğüslerin özünü (kalplerde olanı) hakkıyla bilendir.",
+        "textEN": "Indeed, He is Knowing of that within the breasts.",
+        "reference": "Mülk 67:13",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174029",
+        "arabicText": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+        "textTR": "Şimdi sen güzel bir sabır ile sabret.",
+        "textEN": "So be patient with a beautiful patience.",
+        "reference": "Meâric 70:5",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174030",
+        "arabicText": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+        "textTR": "Rabbin sana verecek ve sen hoşnut olacaksın.",
+        "textEN": "And your Lord is going to give you, and you will be satisfied.",
+        "reference": "Duhâ 93:5",
+        "mood": "sad",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174031",
+        "arabicText": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "textTR": "Şüphesiz güçlükle beraber bir kolaylık vardır.",
+        "textEN": "For indeed, with hardship [will be] ease.",
+        "reference": "İnşirah 94:5",
+        "mood": "general",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174032",
+        "arabicText": "وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ",
+        "textTR": "ve mümin bir toplumun göğüslerine (gönüllerine) şifa versin.",
+        "textEN": "And heal the breasts of a believing people.",
+        "reference": "Tevbe 9:14",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174033",
+        "arabicText": "يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي الصُّدُورِ",
+        "textTR": "Ey insanlar! Size Rabbinizden bir öğüt, gönüllerdekine bir şifa gelmiştir.",
+        "textEN": "O mankind, there has to come to you instruction from your Lord and healing for what is in the breasts.",
+        "reference": "Yûnus 10:57",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174034",
+        "arabicText": "يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ لِّلنَّاسِ",
+        "textTR": "(Arıların) karınlarından renkleri çeşit çeşit bir şerbet çıkar ki, onda insanlar için şifa vardır.",
+        "textEN": "There emerges from their bellies a drink, varying in colors, in which there is healing for people.",
+        "reference": "Nahl 16:69",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174035",
+        "arabicText": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+        "textTR": "Biz Kur'an'dan, müminler için şifa ve rahmet olan şeyler indiriyoruz.",
+        "textEN": "And We send down of the Qur'an that which is healing and mercy for the believers.",
+        "reference": "İsrâ 17:82",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174036",
+        "arabicText": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+        "textTR": "Hastalandığımda da O bana şifa verir.",
+        "textEN": "And when I am ill, it is He who cures me.",
+        "reference": "Şuarâ 26:80",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174037",
+        "arabicText": "قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ",
+        "textTR": "De ki: O (Kur'an), inananlar için doğru yolu gösteren bir kılavuz ve şifadır.",
+        "textEN": "Say, It is, for those who believe, a guidance and cure.",
+        "reference": "Fussilet 41:44",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174038",
+        "arabicText": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ اشْفِ أَنْتَ الشَّافِي",
+        "textTR": "Allah'ım! Ey insanların Rabbi! Şifa ver, şifa veren ancak Sen'sin.",
+        "textEN": "O Allah, Lord of mankind, remove the disease, cure him, for You are the One Who cures.",
+        "reference": "Hadis-i Şerif (Buhari)",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174039",
+        "arabicText": "تَدَاوَوْا فَإِنَّ اللَّهَ لَمْ يَضَعْ دَاءً إِلَّا وَضَعَ لَهُ شِفَاءً",
+        "textTR": "Tedavi olun; çünkü Allah, yarattığı her hastalığın şifasını da yaratmıştır.",
+        "textEN": "Make use of medical treatment, for Allah has not made a disease without appointing a remedy for it.",
+        "reference": "Hadis-i Şerif (Ebu Davud)",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174040",
+        "arabicText": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+        "textTR": "(Rabbim!) Bana zarar dokundu, Sen merhametlilerin en merhametisisin.",
+        "textEN": "Adversity has touched me, and you are the Most Merciful of the merciful.",
+        "reference": "Enbiyâ 21:83",
+        "mood": "healing",
+        "source": "Diyanet İşleri Başkanlığı"
+    }
+]
